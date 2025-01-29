@@ -1,7 +1,7 @@
 # LED-Matrix-display-A-failed-project
 Stepping into the word of microcontrollers, LED Matrix Display board, but failed big time :( 
 
-![image alt](https://github.com/Anandhu-Sudha/LED-Matrix-display-A-failed-project/blob/d445d48403fe2dd8606acab38717e940a3cb686c/1c.jpg)
+
 
 #Throwback
 Month of October 2020, The peak of COVID-19, during the lockdown, Due to lack of socialization the boredom began to reach it's top. The endless scrolling through YouTube to find anything interesting, i randomly came across this " DIY-LED DISPLAY MATRIX BOARD" Video. 
