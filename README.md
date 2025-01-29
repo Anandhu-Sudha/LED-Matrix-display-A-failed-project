@@ -29,6 +29,10 @@ Picture only took to show off my soldering skills( which i believed i had at tha
 
 Connected the LED Panel & Arduino nano with the Circuit that I've made, uploaded the code, What more to say... the LEDs lit up, But never worked.
 
+The only ouutput i got is
+
+https://github.com/user-attachments/assets/6be0502c-79a1-4fbe-80e9-f98dd278c761
+
 Since i don't know the working, basic circuits, or anything, i was never able to solve the issues i faced. 
 
 The project was closed with no hopes...
